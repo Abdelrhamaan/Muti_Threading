@@ -1,1 +1,17 @@
 # Muti_Threading
+- Multithreading&processing
+- Thread
+- Thread with oop
+- Thread name & id
+- Built in thread functions
+- Compare
+- Bus ticket system
+- lock & rlock
+- Semaphore
+- Exception
+- Common of threads
+- Condition communication
+- Queue communication
+- Daemon
+- Timer
+- Barrier
